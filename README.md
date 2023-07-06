@@ -1,4 +1,5 @@
 Desarrollo del Trabajo Grupal 
+
 Parte 1: Crear entorno de trabajo
 - Crear una base de datos
 - Crear un usuario con todos los privilegios para trabajar con la base de datos recién creada.
